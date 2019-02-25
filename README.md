@@ -1,5 +1,5 @@
 # Task-1
-Task 1 for Panda Group
+Task 1 
 The first file to be used would be conexioninclude.php, since it includes the PHP Mysql function to connect to the database and it needs to get its parameters replaced for real ones (to use and visualize the application created).
 
 Then the next file to be run would be table.php, since it is the file created to create the tables in the database.
